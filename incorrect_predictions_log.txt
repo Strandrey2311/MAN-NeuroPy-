@@ -1,0 +1,5 @@
+temp_image.jpg,Normal,Lung_Opacity
+temp_image.jpg,Normal,COVID
+temp_image.jpg,Normal,None
+temp_image.jpg,Пацієнт не хворий,None
+temp_image.jpg,COVID,None
